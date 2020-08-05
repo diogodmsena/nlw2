@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
 import Knex from 'knex';
 
 export async function up(knex: Knex) {
