@@ -62,8 +62,6 @@ const style = StyleSheet.create({
         maxWidth: 140,
         marginTop: 40,
     },
-
-
 });
 
 export default style;
